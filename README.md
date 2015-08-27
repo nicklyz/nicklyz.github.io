@@ -1,4 +1,4 @@
-# nicklyz.github.io
+# Nick's home page
 My personal web page
 
-nicklyz.github.io
+[Check it out](https://nicklyz.github.io)
