@@ -676,19 +676,19 @@ footer span.glyphicon.glyphicon-chevron-up {
 	height:795px;
 	}
 	.banner-info {
-	margin: 250px 0 0 390px;
+	margin: 250px 0 0 0;
 	}
 }
 
 @media (max-width: 1366px) {
 	.banner-info {
-    margin: 235px 0 0 350px;
+    margin: 235px 0 0 0;
 }
 }
 
 @media (max-width: 1280px) {
 	.banner-info {
-    margin: 235px 0 0 320px;
+    margin: 235px 0 0 0;
 }
 }
 
@@ -710,7 +710,7 @@ footer span.glyphicon.glyphicon-chevron-up {
 	width:400px;
 }
 	.banner-info {
-    margin: 235px 0 0 262px;
+    margin: 235px 0 0 0;
 }
 	.banner-info p {
 	font-size:25px;
@@ -726,7 +726,7 @@ footer span.glyphicon.glyphicon-chevron-up {
     height: 675px;
 }
 	.banner-info {
-    margin: 180px 0 0 262px;
+    margin: 180px 0 0 0;
 }
 }
 
@@ -781,7 +781,7 @@ footer span.glyphicon.glyphicon-chevron-up {
     height: 600px;
 }
 	.banner-info {
-    margin: 180px 0 0 205px;
+    margin: 180px 0 0 0;
 }
 	.grid figure, .grid .placeholder {
     width: 230px;
@@ -807,7 +807,7 @@ footer span.glyphicon.glyphicon-chevron-up {
 
 @media (max-width: 768px) {
 	.banner-info {
-    margin: 180px 0 0 200px;
+    margin: 180px 0 0 0;
 }
 	.mygallery img.img-responsive {
     height: 245px;
@@ -859,7 +859,7 @@ footer span.glyphicon.glyphicon-chevron-up {
     height: 360px;
 }
 	.banner-info {
-    margin: 46px 0 0 192px;
+    margin: 46px 0 0 0;
 }
 	span.line1 , span.line2 {
 	width:300px;
@@ -871,7 +871,7 @@ footer span.glyphicon.glyphicon-chevron-up {
 
 @media (max-width: 667px) {
 	.banner-info {
-    margin: 30px 0 0 177px;
+    margin: 30px 0 0 0;
 }
 	.banner-info h3 {
 	font-size:35px;
@@ -889,7 +889,7 @@ footer span.glyphicon.glyphicon-chevron-up {
 
 @media (max-width: 640px) {
 	.banner-info {
-    margin: 45px 0 0 165px;
+    margin: 45px 0 0 0;
 }
 	.banner-info h3 {
 	padding:60px 0 10px;		
@@ -916,7 +916,7 @@ footer span.glyphicon.glyphicon-chevron-up {
 	top:-17px;
 }
 	.banner-info {
-    margin: 60px 0 0 155px;
+    margin: 60px 0 0 0;
 }
 }
 
@@ -928,7 +928,7 @@ footer span.glyphicon.glyphicon-chevron-up {
     height: 265px;
 }
 	.banner-info {
-    margin: 20px 0 0 140px;
+    margin: 20px 0 0 0;
 }
 	.content-img {
     height: 332px;
@@ -943,7 +943,7 @@ footer span.glyphicon.glyphicon-chevron-up {
 	font-size:25px;
 }	
 	.banner-info {
-    margin: 20px 0 0 97px;
+    margin: 20px 0 0 0;
 }
 	.content-img {
     height: 278px;
@@ -993,7 +993,7 @@ footer span.glyphicon.glyphicon-chevron-up {
 
 @media (max-width: 414px){
 	.banner-info {
-    margin: 20px 0 0 65px;
+    margin: 20px 0 0 0;
 }
 	.mygallery img.img-responsive {
     height: 185px;
@@ -1017,7 +1017,7 @@ footer span.glyphicon.glyphicon-chevron-up {
 
 @media (max-width: 384px) {
 	.banner-info {
-    margin: 20px 0 0 45px;
+    margin: 20px 0 0 0;
 }
 	.about-me h3.text-center {
 		font-size:23px;
@@ -1124,4 +1124,7 @@ footer span.glyphicon.glyphicon-chevron-up {
 }
 }
 
+.glyphicon {
+    font-size: 100px;
+}
 
